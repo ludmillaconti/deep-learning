@@ -6,3 +6,6 @@ Follows a brief description of the files:
 
 ### Gradient Descent and Linear Regression
 Python - Code for gradient descent and linear regression. This code explain Stochastic Gradient Descent (SGD) which is an optimization method commonly used in neural networks. 
+
+### Logistic_Regression_with_a_Neural_Network
+Python code
