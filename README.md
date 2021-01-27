@@ -9,3 +9,6 @@ Python - Code for gradient descent and linear regression. This code explain Stoc
 
 ### Logistic_Regression_with_a_Neural_Network
 Python code
+
+### Building_your_Deep_Neural_Network_Step_by_Step
+Python code
