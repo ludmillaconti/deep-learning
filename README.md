@@ -12,3 +12,9 @@ Python code
 
 ### Building_your_Deep_Neural_Network_Step_by_Step
 Python code
+
+### Initialization
+Python code for best practices under initialization
+
+### Regularization
+Python code
